@@ -1,2 +1,4 @@
 # hello-world
-Repository for practicing
+Repository for practice
+
+This is my playground for trying to become a Design Engineer
