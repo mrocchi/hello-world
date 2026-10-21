@@ -1,4 +1,6 @@
-# hello-world
-Repository for practice
+## Hola there 👋
+# I'm a Senior Product Designer who sometimes code
 
-This is my playground for trying to become a Design Engineer
+🎨 My portfolio: https://www.rocchi.studio/
+
+📫 How to reach me: hello@rocchi.studio
